@@ -1,0 +1,9 @@
+{% load inlinecss %}
+{% inlinecss "email.css" %}
+<html>
+	<body>
+		<p><b><br>Dear, {{ content.name }}</b><br>Welcome to the magic world of wizdoor. Your email is <b>{{ content.mail }}</b> and Your profile code is: <b>{{ content.code }}</b>. Please keep this information secure.</p>
+		<p><i>Thanks for joining<br>Family of wizdoor<br>Be Stronger, Stay Together<br>www.wizdoor.com</i></p>
+	</body>
+</html>
+{% endinlinecss %}
