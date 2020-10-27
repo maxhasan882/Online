@@ -6,7 +6,7 @@ beautifulsoup4==4.8.1
 cffi==1.13.2
 chardet==2.3.0
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cssutils==1.0.2
 daphne==2.3.0
 Django==2.2.7
