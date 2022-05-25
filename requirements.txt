@@ -32,7 +32,7 @@ pyasn1==0.1.9
 pycparser==2.19
 pycrypto==2.6.1
 PyHamcrest==1.9.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pynliner==0.8.0
 pytz==2019.3
 pyxdg==0.25
