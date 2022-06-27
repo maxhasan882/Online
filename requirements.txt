@@ -36,7 +36,7 @@ PyJWT==1.7.1
 pynliner==0.8.0
 pytz==2019.3
 pyxdg==0.25
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.12.4
 SecretStorage==2.3.1
 six==1.10.0
